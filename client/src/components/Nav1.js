@@ -28,7 +28,7 @@ export default function Nav1() {
          
             <li>
               <Link to="/admin/orderslist" style={{ color: "black" }}>
-                Order List
+                Orders List
               </Link>
             </li>
         
